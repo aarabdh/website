@@ -11,7 +11,7 @@ I then managed to build a simple nginx docker build at the port 8080.
 
 I did this by following [this tutorial in YouTube](https://www.youtube.com/watch?v=kkazBPHc4bk).
 
-[![asciicast](https://asciinema.org/a/UxA50TJpkymBvcXhwtcVERUSK.svg)](https://asciinema.org/a/UxA50TJpkymBvcXhwtcVERUSK)
+<script id="asciicast-UxA50TJpkymBvcXhwtcVERUSK" src="https://asciinema.org/a/UxA50TJpkymBvcXhwtcVERUSK.js" async></script>
 
 I then attempted to follow [this tutorial](https://www.bogotobogo.com/DevOps/Ansible/Ansible-Deploy-Nginx-to-Docker.php) to help understand the process behind Ansible and Docker.
 
